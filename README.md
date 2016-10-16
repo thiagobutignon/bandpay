@@ -1,2 +1,0 @@
-# bandpay
-# bandpay
